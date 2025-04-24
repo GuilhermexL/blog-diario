@@ -8,7 +8,7 @@ Este repositório contém o desenvolvimento de um sistema de Diário Digital, cr
 
 
 
-### AINDA VAI SER ALTERADO
+### AINDA VAI SER ALTERADO!!!
 
 
 
