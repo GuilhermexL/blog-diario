@@ -15,6 +15,12 @@ Uma aplicação full-stack para registrar atividades diárias em formato de entr
 - Funcionalidade de upload de imagens
 
 
+## Visão do projeto
+
+<p align="center">
+  <img src="./images/home-app.png" alt="App">
+</p>
+
 ## Primeiros Passos
 
 ### Pré-requisitos
@@ -56,7 +62,7 @@ Uma aplicação full-stack para registrar atividades diárias em formato de entr
    npm install
    ```
 
-### Executando a Aplicação
+### Executar
 
 1. Inicie o servidor backend:
 
@@ -71,6 +77,8 @@ Uma aplicação full-stack para registrar atividades diárias em formato de entr
    cd frontend
    npm start
    ```
+
+> 💡 Lembre-se de executar em termais diferentes.
 
 3. Acesse em seu navegador: [http://localhost:3000](http://localhost:3000)
 
