@@ -1,9 +1,5 @@
 # Projeto Diário
 
-<p align="center">
-  <img src="./images/ifpb-esp.png" alt="IFPB">
-</p>
-
 Uma aplicação full-stack para registrar atividades diárias em formato de entradas de blog. Desenvolvida com **React.js**, **Node.js** e **MongoDB**.
 
 ## Funcionalidades
